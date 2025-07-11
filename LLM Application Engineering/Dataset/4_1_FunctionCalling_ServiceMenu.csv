@@ -1,0 +1,20 @@
+service_category,service_type,price
+Residential,Standard Cleaning,$500 up to 3 bedrooms
+Residential,Standard Cleaning,$100 each additional bedroom
+Residential,Deep Cleaning,$75 Inside cabinets
+Residential,Deep Cleaning,$50 Windows
+Residential,Deep Cleaning,$150 Carpet steam clean
+Residential,Eco-Friendly Cleaning,Additional $200 for environmentally friendly products and practices
+Residential,Laundry Service,$25 per load for wash and dry
+Residential,Laundry Service,$5 per item for ironing
+Commercial,Office Cleaning,"$20 per sqare foot up to 10,000 square feet"
+Commercial,Office Cleaning,$10 per additional square foot
+Commercial,Retail Space Cleaning,"$30 per sqare foot up to 10,000 square feet"
+Commercial,Retail Space Cleaning,$15 per additional square foot
+Commercial,Window Washing,$50 per window
+Landscape,Lawn Care,$400 mowing
+Landscape,Lawn Care,$200 edging and removal of grass cuttings
+Landscape,Garden Maintenance,$250 per bed for weeding and mulching
+Landscape,Garden Maintenance,$200 per bed for seasonal planting
+Landscape,Garden Maintenance,$100 per bed for garden design
+Landscape,Tree and Shrub Care,$300 Pruning and trimming
